@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name>
+title: Zoe Bishop
 ---
 
 ## About Me
@@ -9,8 +9,8 @@ title: <Your Name>
 ![Profile Picture]({{ "assets/images/profile-pic.jpg" | relative_url }}){: class="profile-image"}
 
  
-My name is {{ site.name }}, and I am [your pitch paragraph about your passions, knowledge and interestst.] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec accumsan leo. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Aenean faucibus luctus est, sed bibendum tellus. Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
+My name is {{ site.name }}. As a fourth-year student in the College of Engineering at Cornell University majoring in Mechanical Engineering, I am excited about the opportunity to apply my academic knowledge and technical skills in a professional environment. I believe that my strong foundation in engineering principles, combined with my innovative problem-solving, makes me a valuable candidate for an internship.
 
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
+Throughout my time at Cornell, I have gained hands-on experience with projects that have sharpened my skills in design, analysis, and mechanical systems. In addition, my coursework has equipped me with proficiency in AutoCAD software, Fusion360, MATLAB, Python, and materials. My strong work ethic, attention to detail, and ability to work collaboratively on team projects have prepared me to contribute meaningfully to an engineering team.
 
 Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a> and <a href="{{ "/cv/" | relative_url }}">CV</a>.
