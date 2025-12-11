@@ -20,7 +20,7 @@ Mechanical Engineering undergraduate at Cornell University, completing a Bachelo
 #### Education
 - **Cornell University**  
   *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.43/4.0 | Dean’s Honor List for Spring 2024, Fall 2024, Spring 2025| Graduation: May, 2026
+  GPA: 3.43/4.0 | Dean’s Honor List for Spring 2024, Fall 2024, Spring 2025 | Graduation: May, 2026
 
 ---
 
@@ -68,7 +68,7 @@ Mechanical Engineering undergraduate at Cornell University, completing a Bachelo
   [Aug, 2022] - Present
   - 2025 President of Cornell Club Soccer; 2025 region MVP; 2022, 2023, and 2025 NIRSA National Tournament qualifier.
   - Social media manager of the Wild Roses Ultimate Frisbee team; 2025 USA Ultimate D-1 College Championships qualifier.
-  
+
 - **[Cornell University] - 2025 Mechatronics Cube Craze Competition**  
   [May, 2025]
   - Designed and coded an Arduino-based robot in a team of three to collect the most blocks in an arena; placed 2nd of 45 teams.
