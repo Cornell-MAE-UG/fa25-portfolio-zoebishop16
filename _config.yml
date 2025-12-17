@@ -13,7 +13,8 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : Zoe Bishop
 description              : Zoe Bishop - Projects and CV 
-baseurl                  : "/fa25-portfolio-zoebishop16" # Set this to your repo name 
+url: "https://zoebishop16.github.io"
+baseurl: "/fa25-portfolio-zoebishop16"
 
 # Theme and Style
 theme: jekyll-theme-minimal
