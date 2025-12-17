@@ -21,9 +21,9 @@ GPA: 3.43/4.0 | Dean’s Honor List for Spring 2024, Fall 2024, Spring 2025 | Gr
 ---
 
 #### Skills
-* **Software & Analysis:** Autodesk Fusion 360, AutoCAD, Finite Element Analysis (FEA), Gauge Repeatability and Reproducibility (GR&R), Failure Mode and Effects Analysis (FMEA), Matlab, Python, Microsoft Excel
+- **Software & Analysis:** Autodesk Fusion 360, AutoCAD, Finite Element Analysis (FEA), Gauge Repeatability and Reproducibility (GR&R), Failure Mode and Effects Analysis (FMEA), Matlab, Python, Microsoft Excel
 
-* **Hardware & Fabrication:** Arduino, Raspberry Pi, Machine shop
+- **Hardware & Fabrication:** Arduino, Raspberry Pi, Machine shop
 
 ---
 
