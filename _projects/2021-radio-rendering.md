@@ -3,7 +3,8 @@ layout: project
 title: Small Wind-Turbine Blades
 description: Design Project
 technologies: [Autodesk Fusion, MATLAB]
-image: /assets/images/BladeCAD.png
+image: /assets/images/blades.png
+show_hero: false
 ---
 
 ## Project Overview
