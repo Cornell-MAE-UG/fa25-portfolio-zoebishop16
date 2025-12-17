@@ -41,7 +41,7 @@ GPA: 3.43/4.0 | Dean’s Honor List for Spring 2024, Fall 2024, Spring 2025 | Gr
 - **[Seattle University] - Environmental Engineering Intern** Apr, 2022 - Aug, 2023  
   - Worked under Professor Phillip Thompson to implement sensors for a hydroponics system.
   - Programmed temperature, pH, dissolved oxygen, electrical connectivity, and flow sensors using Raspberry Pi, and air quality sensor and pressure transducer sensors using Arduino. Created a video and printed material describing system operation.
-
+  
 - **[REI] - Retail Sales Associate** Summers of 2022 & 2023 
   - Seasonal frontline employee, including cashiering, stocking, and customer service.
   - Consistently recognized for outstanding membership sales, training new hires, and customer engagement.
@@ -59,7 +59,7 @@ GPA: 3.43/4.0 | Dean’s Honor List for Spring 2024, Fall 2024, Spring 2025 | Gr
 - **[Cornell University] - Cornell Club Soccer and Cornell Wild Roses Ultimate Frisbee** Aug, 2022 - Present
   - 2025 President of Cornell Club Soccer; 2025 region MVP; 2022, 2023, and 2025 NIRSA National Tournament qualifier.
   - Social media manager of the Wild Roses Ultimate Frisbee team; 2025 USA Ultimate D-1 College Championships qualifier.
-
+  
 - **[Cornell University] - 2025 Mechatronics Cube Craze Competition** May, 2025
   - Designed and coded an Arduino-based robot in a team of three to collect the most blocks in an arena; placed 2nd of 45 teams.
 
