@@ -15,7 +15,11 @@ Mechanical Engineering undergraduate at Cornell University, completing a Bachelo
 ---
 
 #### Education
-- **Cornell University** *Bachelor of Science in Mechanical and Aerospace Engineering*; GPA: 3.43/4.0 | Dean’s Honor List for Spring 2024, Fall 2024, Spring 2025 | Graduation: May, 2026
+
+**Cornell University** | *Bachelor of Science in Mechanical and Aerospace Engineering*
+* *Graduation:* May, 2026
+* *GPA:* 3.43/4.0
+* *Honors:* Dean’s Honor List for Spring 2024, Fall 2024, Spring 2025
 
 ---
 
