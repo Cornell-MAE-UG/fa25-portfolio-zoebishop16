@@ -3,7 +3,7 @@ layout: project
 title: Load Cell Analysis
 description: Design Project
 technologies: [Fusion 360, ANSYS, Matlab]
-image: /assets/images/ANSYS-Results
+image: /assets/images/ANSYSResults.png
 show_hero: false
 ---
 
@@ -22,7 +22,7 @@ Designed a load cell using a ring geometry with strain gauges on the inner and o
 - Performed the baseline analysis on the load cell in ANSYS.
 - Contributed to the final technical report.
 
-![ANSYS Results]({{ site.baseurl }}/assets/images/ANSYS-Results){: .centered-image}
+![ANSYS Results]({{ site.baseurl }}/assets/images/ANSYSResults.png){: .centered-image}
 
 
 
