@@ -2,7 +2,7 @@
 layout: project
 title: 2024 Jolitane Suspended Bridge
 description: Design Project
-technologies: [AutoCAD, Microsoft Excel]]
+technologies: [AutoCAD, Microsoft Excel]
 image: /assets/images/Bridge.png
 show_hero: false
 ---
