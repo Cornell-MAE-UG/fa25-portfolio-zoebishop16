@@ -3,11 +3,11 @@ layout: project
 title: 2024 Jolitane Suspended Bridge
 description: Design Project
 technologies: [AutoCAD, Microsoft Excel]]
-image: /assets/images/Bridge.png
+image: /assets/images/CompletedBridge.png
 show_hero: false
 ---
 
-![The Completed Bridge]({{ site.baseurl }}/assets/images/Bridge.png){: .centered-image}
+![The Completed Bridge]({{ site.baseurl }}/assets/images/CompletedBridge.png){: .centered-image}
 
 ## Project Overview
 
