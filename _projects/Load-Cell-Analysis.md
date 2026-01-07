@@ -2,7 +2,7 @@
 layout: project
 title: Load Cell Analysis
 description: Design Project
-technologies: [Fusion 360, ANSYS, Matlab]
+technologies: [Autodesk Fusion 360, ANSYS, Matlab]
 image: /assets/images/ANSYSResults.png
 show_hero: false
 ---
