@@ -11,7 +11,7 @@ show_hero: false
 
 Worked in a team of three to design, prototype, build, and program an Arduino-based robot for a Mechatronics Cube Craze competition. The goal of the competition was to design a robot that would gather more cubes randomly scattered in a 16 square foot arena than a competitor robot in a one-minute period. The robot must meet an 8×8-inch starting cube constraint, but can expand in size once competition has begun. 
 
-![Frame Design]({{ site.baseurl }}/assets/images/FrameDesign.png){: .centered-image}
+![Frame Design]({{ site.baseurl }}/assets/images/FrameDesign.jpg){: .centered-image}
 
 ---
 
