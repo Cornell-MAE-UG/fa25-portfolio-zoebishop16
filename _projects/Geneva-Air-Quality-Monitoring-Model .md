@@ -2,7 +2,7 @@
 layout: project
 title: Geneva Air Quality Monitoring Model 
 description: Senior Design Project
-image: /assets/images/car.png
+image: /assets/images/Screenshot 2026-09-16 at 8.23.22 PM.png
 show_hero: false
 ---
 
